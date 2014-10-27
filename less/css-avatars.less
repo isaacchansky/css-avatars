@@ -91,6 +91,11 @@
 
   .initialize-inverse-mixin(@n, (@i + 1));
 
+  .avatar-gs.avatar-color-@{i} {
+    background-color: desaturate(@primaryColor, 100%);
+    .font-color-mixin(@secondaryColor);
+  }
+
   .avatar-inverse.avatar-color-@{i} {
     .background-color-mixin(@secondaryColor);
     color: @primaryColor;

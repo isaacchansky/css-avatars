@@ -1,9 +1,3 @@
-/*!
- * CSS avatars v0.3.0 (https://github.com/rmhdev/css-avatars)
- * Copyright 2014 Rober Martín H (@rmhdev)
- * Licensed under MIT (https://github.com/rmhdev/css-avatars/blob/master/LICENSE)
- */
-
 .avatar {
   position: relative;
   top: 1px;
@@ -855,787 +849,1513 @@
   color: #eeeeee;
   text-shadow: #6f6f6f 0.02em 0.02em 0.02em;
 }
+.avatar-gs.avatar-color-215 {
+  background-color: #ffffff;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-215 {
   color: #ffffff;
+}
+.avatar-gs.avatar-color-214 {
+  background-color: #e6e6e6;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-214 {
   color: #ffffcc;
 }
+.avatar-gs.avatar-color-213 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-213 {
   color: #ffff99;
+}
+.avatar-gs.avatar-color-212 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-212 {
   color: #ffff66;
 }
+.avatar-gs.avatar-color-211 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-211 {
   color: #ffff33;
+}
+.avatar-gs.avatar-color-210 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-210 {
   color: #ffff00;
 }
+.avatar-gs.avatar-color-209 {
+  background-color: #e6e6e6;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-209 {
   color: #ffccff;
+}
+.avatar-gs.avatar-color-208 {
+  background-color: #e6e6e6;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-208 {
   color: #ffcccc;
 }
+.avatar-gs.avatar-color-207 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-207 {
   color: #ffcc99;
+}
+.avatar-gs.avatar-color-206 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-206 {
   color: #ffcc66;
 }
+.avatar-gs.avatar-color-205 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-205 {
   color: #ffcc33;
+}
+.avatar-gs.avatar-color-204 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-204 {
   color: #ffcc00;
 }
+.avatar-gs.avatar-color-203 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-203 {
   color: #ff99ff;
+}
+.avatar-gs.avatar-color-202 {
+  background-color: #cccccc;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-202 {
   color: #ff99cc;
 }
+.avatar-gs.avatar-color-201 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-201 {
   color: #ff9999;
+}
+.avatar-gs.avatar-color-200 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-200 {
   color: #ff9966;
 }
+.avatar-gs.avatar-color-199 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-199 {
   color: #ff9933;
 }
+.avatar-gs.avatar-color-198 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-198 {
   color: #ff9900;
+}
+.avatar-gs.avatar-color-197 {
+  background-color: #b3b3b3;
 }
 .avatar-inverse.avatar-color-197 {
   background-color: #eeeeee;
   color: #ff66ff;
 }
+.avatar-gs.avatar-color-196 {
+  background-color: #b3b3b3;
+}
 .avatar-inverse.avatar-color-196 {
   background-color: #eeeeee;
   color: #ff66cc;
+}
+.avatar-gs.avatar-color-195 {
+  background-color: #b3b3b3;
 }
 .avatar-inverse.avatar-color-195 {
   background-color: #eeeeee;
   color: #ff6699;
 }
+.avatar-gs.avatar-color-194 {
+  background-color: #b3b3b3;
+}
 .avatar-inverse.avatar-color-194 {
   background-color: #eeeeee;
   color: #ff6666;
+}
+.avatar-gs.avatar-color-193 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-193 {
   background-color: #eeeeee;
   color: #ff6633;
 }
+.avatar-gs.avatar-color-192 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-192 {
   background-color: #eeeeee;
   color: #ff6600;
+}
+.avatar-gs.avatar-color-191 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-191 {
   background-color: #eeeeee;
   color: #ff33ff;
 }
+.avatar-gs.avatar-color-190 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-190 {
   background-color: #eeeeee;
   color: #ff33cc;
+}
+.avatar-gs.avatar-color-189 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-189 {
   background-color: #eeeeee;
   color: #ff3399;
 }
+.avatar-gs.avatar-color-188 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-188 {
   background-color: #eeeeee;
   color: #ff3366;
+}
+.avatar-gs.avatar-color-187 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-187 {
   background-color: #eeeeee;
   color: #ff3333;
 }
+.avatar-gs.avatar-color-186 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-186 {
   background-color: #eeeeee;
   color: #ff3300;
+}
+.avatar-gs.avatar-color-185 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-185 {
   background-color: #eeeeee;
   color: #ff00ff;
 }
+.avatar-gs.avatar-color-184 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-184 {
   background-color: #eeeeee;
   color: #ff00cc;
+}
+.avatar-gs.avatar-color-183 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-183 {
   background-color: #eeeeee;
   color: #ff0099;
 }
+.avatar-gs.avatar-color-182 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-182 {
   background-color: #eeeeee;
   color: #ff0066;
+}
+.avatar-gs.avatar-color-181 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-181 {
   background-color: #eeeeee;
   color: #ff0033;
 }
+.avatar-gs.avatar-color-180 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-180 {
   background-color: #eeeeee;
   color: #ff0000;
 }
+.avatar-gs.avatar-color-179 {
+  background-color: #e6e6e6;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-179 {
   color: #ccffff;
+}
+.avatar-gs.avatar-color-178 {
+  background-color: #e6e6e6;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-178 {
   color: #ccffcc;
 }
+.avatar-gs.avatar-color-177 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-177 {
   color: #ccff99;
+}
+.avatar-gs.avatar-color-176 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-176 {
   color: #ccff66;
 }
+.avatar-gs.avatar-color-175 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-175 {
   color: #ccff33;
+}
+.avatar-gs.avatar-color-174 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-174 {
   color: #ccff00;
 }
+.avatar-gs.avatar-color-173 {
+  background-color: #e6e6e6;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-173 {
   color: #ccccff;
+}
+.avatar-gs.avatar-color-172 {
+  background-color: #cccccc;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-172 {
   color: #cccccc;
 }
+.avatar-gs.avatar-color-171 {
+  background-color: #b3b3b3;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-171 {
   color: #cccc99;
+}
+.avatar-gs.avatar-color-170 {
+  background-color: #999999;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-170 {
   color: #cccc66;
 }
+.avatar-gs.avatar-color-169 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-169 {
   color: #cccc33;
 }
+.avatar-gs.avatar-color-168 {
+  background-color: #666666;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-168 {
   color: #cccc00;
+}
+.avatar-gs.avatar-color-167 {
+  background-color: #cccccc;
 }
 .avatar-inverse.avatar-color-167 {
   background-color: #eeeeee;
   color: #cc99ff;
 }
+.avatar-gs.avatar-color-166 {
+  background-color: #b3b3b3;
+}
 .avatar-inverse.avatar-color-166 {
   background-color: #eeeeee;
   color: #cc99cc;
+}
+.avatar-gs.avatar-color-165 {
+  background-color: #b3b3b3;
 }
 .avatar-inverse.avatar-color-165 {
   background-color: #eeeeee;
   color: #cc9999;
 }
+.avatar-gs.avatar-color-164 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-164 {
   background-color: #eeeeee;
   color: #cc9966;
+}
+.avatar-gs.avatar-color-163 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-163 {
   background-color: #eeeeee;
   color: #cc9933;
 }
+.avatar-gs.avatar-color-162 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-162 {
   background-color: #eeeeee;
   color: #cc9900;
+}
+.avatar-gs.avatar-color-161 {
+  background-color: #b3b3b3;
 }
 .avatar-inverse.avatar-color-161 {
   background-color: #eeeeee;
   color: #cc66ff;
 }
+.avatar-gs.avatar-color-160 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-160 {
   background-color: #eeeeee;
   color: #cc66cc;
+}
+.avatar-gs.avatar-color-159 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-159 {
   background-color: #eeeeee;
   color: #cc6699;
 }
+.avatar-gs.avatar-color-158 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-158 {
   background-color: #eeeeee;
   color: #cc6666;
+}
+.avatar-gs.avatar-color-157 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-157 {
   background-color: #eeeeee;
   color: #cc6633;
 }
+.avatar-gs.avatar-color-156 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-156 {
   background-color: #eeeeee;
   color: #cc6600;
+}
+.avatar-gs.avatar-color-155 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-155 {
   background-color: #eeeeee;
   color: #cc33ff;
 }
+.avatar-gs.avatar-color-154 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-154 {
   background-color: #eeeeee;
   color: #cc33cc;
+}
+.avatar-gs.avatar-color-153 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-153 {
   background-color: #eeeeee;
   color: #cc3399;
 }
+.avatar-gs.avatar-color-152 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-152 {
   background-color: #eeeeee;
   color: #cc3366;
+}
+.avatar-gs.avatar-color-151 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-151 {
   background-color: #eeeeee;
   color: #cc3333;
 }
+.avatar-gs.avatar-color-150 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-150 {
   background-color: #eeeeee;
   color: #cc3300;
+}
+.avatar-gs.avatar-color-149 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-149 {
   background-color: #eeeeee;
   color: #cc00ff;
 }
+.avatar-gs.avatar-color-148 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-148 {
   background-color: #eeeeee;
   color: #cc00cc;
+}
+.avatar-gs.avatar-color-147 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-147 {
   background-color: #eeeeee;
   color: #cc0099;
 }
+.avatar-gs.avatar-color-146 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-146 {
   background-color: #eeeeee;
   color: #cc0066;
+}
+.avatar-gs.avatar-color-145 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-145 {
   background-color: #eeeeee;
   color: #cc0033;
 }
+.avatar-gs.avatar-color-144 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-144 {
   background-color: #eeeeee;
   color: #cc0000;
 }
+.avatar-gs.avatar-color-143 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-143 {
   color: #99ffff;
+}
+.avatar-gs.avatar-color-142 {
+  background-color: #cccccc;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-142 {
   color: #99ffcc;
 }
+.avatar-gs.avatar-color-141 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-141 {
   color: #99ff99;
+}
+.avatar-gs.avatar-color-140 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-140 {
   color: #99ff66;
 }
+.avatar-gs.avatar-color-139 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-139 {
   color: #99ff33;
+}
+.avatar-gs.avatar-color-138 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-138 {
   color: #99ff00;
 }
+.avatar-gs.avatar-color-137 {
+  background-color: #cccccc;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-137 {
   color: #99ccff;
+}
+.avatar-gs.avatar-color-136 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-136 {
   color: #99cccc;
 }
+.avatar-gs.avatar-color-135 {
+  background-color: #b3b3b3;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-135 {
   color: #99cc99;
+}
+.avatar-gs.avatar-color-134 {
+  background-color: #999999;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-134 {
   color: #99cc66;
 }
+.avatar-gs.avatar-color-133 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-133 {
   color: #99cc33;
 }
+.avatar-gs.avatar-color-132 {
+  background-color: #666666;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-132 {
   color: #99cc00;
+}
+.avatar-gs.avatar-color-131 {
+  background-color: #cccccc;
 }
 .avatar-inverse.avatar-color-131 {
   background-color: #eeeeee;
   color: #9999ff;
 }
+.avatar-gs.avatar-color-130 {
+  background-color: #b3b3b3;
+}
 .avatar-inverse.avatar-color-130 {
   background-color: #eeeeee;
   color: #9999cc;
+}
+.avatar-gs.avatar-color-129 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-129 {
   background-color: #eeeeee;
   color: #999999;
 }
+.avatar-gs.avatar-color-128 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-128 {
   background-color: #eeeeee;
   color: #999966;
+}
+.avatar-gs.avatar-color-127 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-127 {
   background-color: #eeeeee;
   color: #999933;
 }
+.avatar-gs.avatar-color-126 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-126 {
   background-color: #eeeeee;
   color: #999900;
+}
+.avatar-gs.avatar-color-125 {
+  background-color: #b3b3b3;
 }
 .avatar-inverse.avatar-color-125 {
   background-color: #eeeeee;
   color: #9966ff;
 }
+.avatar-gs.avatar-color-124 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-124 {
   background-color: #eeeeee;
   color: #9966cc;
+}
+.avatar-gs.avatar-color-123 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-123 {
   background-color: #eeeeee;
   color: #996699;
 }
+.avatar-gs.avatar-color-122 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-122 {
   background-color: #eeeeee;
   color: #996666;
+}
+.avatar-gs.avatar-color-121 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-121 {
   background-color: #eeeeee;
   color: #996633;
 }
+.avatar-gs.avatar-color-120 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-120 {
   background-color: #eeeeee;
   color: #996600;
+}
+.avatar-gs.avatar-color-119 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-119 {
   background-color: #eeeeee;
   color: #9933ff;
 }
+.avatar-gs.avatar-color-118 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-118 {
   background-color: #eeeeee;
   color: #9933cc;
+}
+.avatar-gs.avatar-color-117 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-117 {
   background-color: #eeeeee;
   color: #993399;
 }
+.avatar-gs.avatar-color-116 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-116 {
   background-color: #eeeeee;
   color: #993366;
+}
+.avatar-gs.avatar-color-115 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-115 {
   background-color: #eeeeee;
   color: #993333;
 }
+.avatar-gs.avatar-color-114 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-114 {
   background-color: #eeeeee;
   color: #993300;
+}
+.avatar-gs.avatar-color-113 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-113 {
   background-color: #eeeeee;
   color: #9900ff;
 }
+.avatar-gs.avatar-color-112 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-112 {
   background-color: #eeeeee;
   color: #9900cc;
+}
+.avatar-gs.avatar-color-111 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-111 {
   background-color: #eeeeee;
   color: #990099;
 }
+.avatar-gs.avatar-color-110 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-110 {
   background-color: #eeeeee;
   color: #990066;
+}
+.avatar-gs.avatar-color-109 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-109 {
   background-color: #eeeeee;
   color: #990033;
 }
+.avatar-gs.avatar-color-108 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-108 {
   background-color: #eeeeee;
   color: #990000;
 }
+.avatar-gs.avatar-color-107 {
+  background-color: #b3b3b3;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-107 {
   color: #66ffff;
+}
+.avatar-gs.avatar-color-106 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-106 {
   color: #66ffcc;
 }
+.avatar-gs.avatar-color-105 {
+  background-color: #b3b3b3;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-105 {
   color: #66ff99;
+}
+.avatar-gs.avatar-color-104 {
+  background-color: #b3b3b3;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-104 {
   color: #66ff66;
 }
+.avatar-gs.avatar-color-103 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-103 {
   color: #66ff33;
+}
+.avatar-gs.avatar-color-102 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-102 {
   color: #66ff00;
 }
+.avatar-gs.avatar-color-101 {
+  background-color: #b3b3b3;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-101 {
   color: #66ccff;
+}
+.avatar-gs.avatar-color-100 {
+  background-color: #999999;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-100 {
   color: #66cccc;
 }
+.avatar-gs.avatar-color-99 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-99 {
   color: #66cc99;
+}
+.avatar-gs.avatar-color-98 {
+  background-color: #999999;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-98 {
   color: #66cc66;
 }
+.avatar-gs.avatar-color-97 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-97 {
   color: #66cc33;
 }
+.avatar-gs.avatar-color-96 {
+  background-color: #666666;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-96 {
   color: #66cc00;
+}
+.avatar-gs.avatar-color-95 {
+  background-color: #b3b3b3;
 }
 .avatar-inverse.avatar-color-95 {
   background-color: #eeeeee;
   color: #6699ff;
 }
+.avatar-gs.avatar-color-94 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-94 {
   background-color: #eeeeee;
   color: #6699cc;
+}
+.avatar-gs.avatar-color-93 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-93 {
   background-color: #eeeeee;
   color: #669999;
 }
+.avatar-gs.avatar-color-92 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-92 {
   background-color: #eeeeee;
   color: #669966;
+}
+.avatar-gs.avatar-color-91 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-91 {
   background-color: #eeeeee;
   color: #669933;
 }
+.avatar-gs.avatar-color-90 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-90 {
   background-color: #eeeeee;
   color: #669900;
+}
+.avatar-gs.avatar-color-89 {
+  background-color: #b3b3b3;
 }
 .avatar-inverse.avatar-color-89 {
   background-color: #eeeeee;
   color: #6666ff;
 }
+.avatar-gs.avatar-color-88 {
+  background-color: #999999;
+}
 .avatar-inverse.avatar-color-88 {
   background-color: #eeeeee;
   color: #6666cc;
+}
+.avatar-gs.avatar-color-87 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-87 {
   background-color: #eeeeee;
   color: #666699;
 }
+.avatar-gs.avatar-color-86 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-86 {
   background-color: #eeeeee;
   color: #666666;
+}
+.avatar-gs.avatar-color-85 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-85 {
   background-color: #eeeeee;
   color: #666633;
 }
+.avatar-gs.avatar-color-84 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-84 {
   background-color: #eeeeee;
   color: #666600;
+}
+.avatar-gs.avatar-color-83 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-83 {
   background-color: #eeeeee;
   color: #6633ff;
 }
+.avatar-gs.avatar-color-82 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-82 {
   background-color: #eeeeee;
   color: #6633cc;
+}
+.avatar-gs.avatar-color-81 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-81 {
   background-color: #eeeeee;
   color: #663399;
 }
+.avatar-gs.avatar-color-80 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-80 {
   background-color: #eeeeee;
   color: #663366;
+}
+.avatar-gs.avatar-color-79 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-79 {
   background-color: #eeeeee;
   color: #663333;
 }
+.avatar-gs.avatar-color-78 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-78 {
   background-color: #eeeeee;
   color: #663300;
+}
+.avatar-gs.avatar-color-77 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-77 {
   background-color: #eeeeee;
   color: #6600ff;
 }
+.avatar-gs.avatar-color-76 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-76 {
   background-color: #eeeeee;
   color: #6600cc;
+}
+.avatar-gs.avatar-color-75 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-75 {
   background-color: #eeeeee;
   color: #660099;
 }
+.avatar-gs.avatar-color-74 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-74 {
   background-color: #eeeeee;
   color: #660066;
+}
+.avatar-gs.avatar-color-73 {
+  background-color: #333333;
 }
 .avatar-inverse.avatar-color-73 {
   background-color: #eeeeee;
   color: #660033;
 }
+.avatar-gs.avatar-color-72 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-72 {
   background-color: #eeeeee;
   color: #660000;
 }
+.avatar-gs.avatar-color-71 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-71 {
   color: #33ffff;
+}
+.avatar-gs.avatar-color-70 {
+  background-color: #999999;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-70 {
   color: #33ffcc;
 }
+.avatar-gs.avatar-color-69 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-69 {
   color: #33ff99;
+}
+.avatar-gs.avatar-color-68 {
+  background-color: #999999;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-68 {
   color: #33ff66;
 }
+.avatar-gs.avatar-color-67 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-67 {
   color: #33ff33;
+}
+.avatar-gs.avatar-color-66 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-66 {
   color: #33ff00;
 }
+.avatar-gs.avatar-color-65 {
+  background-color: #999999;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-65 {
   color: #33ccff;
+}
+.avatar-gs.avatar-color-64 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-64 {
   color: #33cccc;
 }
+.avatar-gs.avatar-color-63 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-63 {
   color: #33cc99;
+}
+.avatar-gs.avatar-color-62 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-62 {
   color: #33cc66;
 }
+.avatar-gs.avatar-color-61 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-61 {
   color: #33cc33;
 }
+.avatar-gs.avatar-color-60 {
+  background-color: #666666;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-60 {
   color: #33cc00;
+}
+.avatar-gs.avatar-color-59 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-59 {
   background-color: #eeeeee;
   color: #3399ff;
 }
+.avatar-gs.avatar-color-58 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-58 {
   background-color: #eeeeee;
   color: #3399cc;
+}
+.avatar-gs.avatar-color-57 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-57 {
   background-color: #eeeeee;
   color: #339999;
 }
+.avatar-gs.avatar-color-56 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-56 {
   background-color: #eeeeee;
   color: #339966;
+}
+.avatar-gs.avatar-color-55 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-55 {
   background-color: #eeeeee;
   color: #339933;
 }
+.avatar-gs.avatar-color-54 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-54 {
   background-color: #eeeeee;
   color: #339900;
+}
+.avatar-gs.avatar-color-53 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-53 {
   background-color: #eeeeee;
   color: #3366ff;
 }
+.avatar-gs.avatar-color-52 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-52 {
   background-color: #eeeeee;
   color: #3366cc;
+}
+.avatar-gs.avatar-color-51 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-51 {
   background-color: #eeeeee;
   color: #336699;
 }
+.avatar-gs.avatar-color-50 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-50 {
   background-color: #eeeeee;
   color: #336666;
+}
+.avatar-gs.avatar-color-49 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-49 {
   background-color: #eeeeee;
   color: #336633;
 }
+.avatar-gs.avatar-color-48 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-48 {
   background-color: #eeeeee;
   color: #336600;
+}
+.avatar-gs.avatar-color-47 {
+  background-color: #999999;
 }
 .avatar-inverse.avatar-color-47 {
   background-color: #eeeeee;
   color: #3333ff;
 }
+.avatar-gs.avatar-color-46 {
+  background-color: #808080;
+}
 .avatar-inverse.avatar-color-46 {
   background-color: #eeeeee;
   color: #3333cc;
+}
+.avatar-gs.avatar-color-45 {
+  background-color: #666666;
 }
 .avatar-inverse.avatar-color-45 {
   background-color: #eeeeee;
   color: #333399;
 }
+.avatar-gs.avatar-color-44 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-44 {
   background-color: #eeeeee;
   color: #333366;
+}
+.avatar-gs.avatar-color-43 {
+  background-color: #333333;
 }
 .avatar-inverse.avatar-color-43 {
   background-color: #eeeeee;
   color: #333333;
 }
+.avatar-gs.avatar-color-42 {
+  background-color: #1a1a1a;
+}
 .avatar-inverse.avatar-color-42 {
   background-color: #eeeeee;
   color: #333300;
+}
+.avatar-gs.avatar-color-41 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-41 {
   background-color: #eeeeee;
   color: #3300ff;
 }
+.avatar-gs.avatar-color-40 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-40 {
   background-color: #eeeeee;
   color: #3300cc;
+}
+.avatar-gs.avatar-color-39 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-39 {
   background-color: #eeeeee;
   color: #330099;
 }
+.avatar-gs.avatar-color-38 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-38 {
   background-color: #eeeeee;
   color: #330066;
+}
+.avatar-gs.avatar-color-37 {
+  background-color: #1a1a1a;
 }
 .avatar-inverse.avatar-color-37 {
   background-color: #eeeeee;
   color: #330033;
 }
+.avatar-gs.avatar-color-36 {
+  background-color: #1a1a1a;
+}
 .avatar-inverse.avatar-color-36 {
   background-color: #eeeeee;
   color: #330000;
 }
+.avatar-gs.avatar-color-35 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-35 {
   color: #00ffff;
+}
+.avatar-gs.avatar-color-34 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-34 {
   color: #00ffcc;
 }
+.avatar-gs.avatar-color-33 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-33 {
   color: #00ff99;
+}
+.avatar-gs.avatar-color-32 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-32 {
   color: #00ff66;
 }
+.avatar-gs.avatar-color-31 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-31 {
   color: #00ff33;
+}
+.avatar-gs.avatar-color-30 {
+  background-color: #808080;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-30 {
   color: #00ff00;
 }
+.avatar-gs.avatar-color-29 {
+  background-color: #808080;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-29 {
   color: #00ccff;
+}
+.avatar-gs.avatar-color-28 {
+  background-color: #666666;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-28 {
   color: #00cccc;
 }
+.avatar-gs.avatar-color-27 {
+  background-color: #666666;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-27 {
   color: #00cc99;
+}
+.avatar-gs.avatar-color-26 {
+  background-color: #666666;
+  color: #333333;
 }
 .avatar-inverse.avatar-color-26 {
   color: #00cc66;
 }
+.avatar-gs.avatar-color-25 {
+  background-color: #666666;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-25 {
   color: #00cc33;
 }
+.avatar-gs.avatar-color-24 {
+  background-color: #666666;
+  color: #333333;
+}
 .avatar-inverse.avatar-color-24 {
   color: #00cc00;
+}
+.avatar-gs.avatar-color-23 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-23 {
   background-color: #eeeeee;
   color: #0099ff;
 }
+.avatar-gs.avatar-color-22 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-22 {
   background-color: #eeeeee;
   color: #0099cc;
+}
+.avatar-gs.avatar-color-21 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-21 {
   background-color: #eeeeee;
   color: #009999;
 }
+.avatar-gs.avatar-color-20 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-20 {
   background-color: #eeeeee;
   color: #009966;
+}
+.avatar-gs.avatar-color-19 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-19 {
   background-color: #eeeeee;
   color: #009933;
 }
+.avatar-gs.avatar-color-18 {
+  background-color: #4d4d4d;
+}
 .avatar-inverse.avatar-color-18 {
   background-color: #eeeeee;
   color: #009900;
+}
+.avatar-gs.avatar-color-17 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-17 {
   background-color: #eeeeee;
   color: #0066ff;
 }
+.avatar-gs.avatar-color-16 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-16 {
   background-color: #eeeeee;
   color: #0066cc;
+}
+.avatar-gs.avatar-color-15 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-15 {
   background-color: #eeeeee;
   color: #006699;
 }
+.avatar-gs.avatar-color-14 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-14 {
   background-color: #eeeeee;
   color: #006666;
+}
+.avatar-gs.avatar-color-13 {
+  background-color: #333333;
 }
 .avatar-inverse.avatar-color-13 {
   background-color: #eeeeee;
   color: #006633;
 }
+.avatar-gs.avatar-color-12 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-12 {
   background-color: #eeeeee;
   color: #006600;
+}
+.avatar-gs.avatar-color-11 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-11 {
   background-color: #eeeeee;
   color: #0033ff;
 }
+.avatar-gs.avatar-color-10 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-10 {
   background-color: #eeeeee;
   color: #0033cc;
+}
+.avatar-gs.avatar-color-9 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-9 {
   background-color: #eeeeee;
   color: #003399;
 }
+.avatar-gs.avatar-color-8 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-8 {
   background-color: #eeeeee;
   color: #003366;
+}
+.avatar-gs.avatar-color-7 {
+  background-color: #1a1a1a;
 }
 .avatar-inverse.avatar-color-7 {
   background-color: #eeeeee;
   color: #003333;
 }
+.avatar-gs.avatar-color-6 {
+  background-color: #1a1a1a;
+}
 .avatar-inverse.avatar-color-6 {
   background-color: #eeeeee;
   color: #003300;
+}
+.avatar-gs.avatar-color-5 {
+  background-color: #808080;
 }
 .avatar-inverse.avatar-color-5 {
   background-color: #eeeeee;
   color: #0000ff;
 }
+.avatar-gs.avatar-color-4 {
+  background-color: #666666;
+}
 .avatar-inverse.avatar-color-4 {
   background-color: #eeeeee;
   color: #0000cc;
+}
+.avatar-gs.avatar-color-3 {
+  background-color: #4d4d4d;
 }
 .avatar-inverse.avatar-color-3 {
   background-color: #eeeeee;
   color: #000099;
 }
+.avatar-gs.avatar-color-2 {
+  background-color: #333333;
+}
 .avatar-inverse.avatar-color-2 {
   background-color: #eeeeee;
   color: #000066;
 }
+.avatar-gs.avatar-color-1 {
+  background-color: #1a1a1a;
+}
 .avatar-inverse.avatar-color-1 {
   background-color: #eeeeee;
   color: #000033;
+}
+.avatar-gs.avatar-color-0 {
+  background-color: #000000;
 }
 .avatar-inverse.avatar-color-0 {
   background-color: #eeeeee;
