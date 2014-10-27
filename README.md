@@ -4,7 +4,7 @@ Minimalistic avatars based on css. Color + letter = visual identification.
 
 ![Avatar letter C](docs/avatar-letter-c.png)
 
-Possible combinations: `216` colors * `26` letters * `2` versions (default, inverted): `11232`
+Possible combinations: `216` colors * `26` letters * `3` versions (default, grayscale, inverted): `16848`
 
 ## Installation
 
@@ -25,6 +25,7 @@ Two options are available:
 - `avatar-letter-*`: (optional) letter, from `a` to `z`
 - `avatar-*`: (optional) size: `sm`, `md`, `lg`
 - `avatar-inverse`: (optional) inverted colors
+- `avatar-gs`: (optional) grayscale, no colors
 - `avatar-plain`: (optional) remove text shadow
 
 You can also create avatars with special letters.
